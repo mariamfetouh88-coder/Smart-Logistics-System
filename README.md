@@ -9,6 +9,7 @@ A robust, pure C++ application designed to simulate modern supply chain and logi
 * **Binary Search Tree (BST):** Empowers fast order tracking and lookup with $O(\log n)$ efficiency.
 
 ## 🚀 Key Features
+*Batch Order Creation: Enhanced User Experience allowing dynamic multi-order registration in a single loop.
 * Custom-built OOP structure with separate models for `Order`, `Node`, and custom DS containers.
 * Dynamic multi-order generation.
 * Memory management using pointers and manual node deletions.
